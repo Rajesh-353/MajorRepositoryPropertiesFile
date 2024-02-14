@@ -1,4 +1,4 @@
-spring:
+ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: rajesh353
@@ -18,4 +18,4 @@ spring:
           auth: true
           starttls:
             enable: true
-    username: kummarirajesh353@gmail.com  
+    username: kummarirajesh353@gmail.com
